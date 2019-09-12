@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565599644976.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2740EF09",
+    "lastKnownWriteTime" : 479595320,
+    "last_content_update" : 1565599644976,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "505993601be546e6b8f856652feb311c",
+        "name" : "model",
+        "title" : "model"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

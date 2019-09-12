@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564902518017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2168393888",
+    "id" : "7DACCA71",
+    "lastKnownWriteTime" : 1564971894,
+    "last_content_update" : 1564971894509,
+    "path" : "C:/rezawork/study/r-studio/projects/multinominalchoice/multinominal.R",
+    "project_path" : "multinominal.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

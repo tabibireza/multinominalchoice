@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564904339108.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FEDC877E",
+    "lastKnownWriteTime" : 28148000189841523,
+    "last_content_update" : 1564904339108,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AC425564",
+        "caption" : "transp_dec",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=transp_dec&cache_key=AC425564",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "transp_dec",
+        "preview" : 0,
+        "totalObservations" : 4,
+        "variables" : 4
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

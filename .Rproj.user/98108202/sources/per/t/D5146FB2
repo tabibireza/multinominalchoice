@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565583201478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2351110337",
+    "id" : "D5146FB2",
+    "lastKnownWriteTime" : 1565601376,
+    "last_content_update" : 1565601376073,
+    "path" : "E:/towork/study/r-studio/projects/multinominalchoice/multinominal.R",
+    "project_path" : "multinominal.R",
+    "properties" : {
+        "cursorPosition" : "87,0",
+        "disableDependencyDiscovery" : "1",
+        "scrollLine" : "74"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
